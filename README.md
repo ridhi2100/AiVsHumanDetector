@@ -31,6 +31,3 @@ User enters text in the UI
 Frontend sends request to Flask API
 ML model analyzes text
 Results (AI/Human + confidence) are displayed
-⚠️ Note
-First run may take time (model download)
-Accuracy is not 100% (AI detection is an evolving problem)
